@@ -11,3 +11,34 @@ if st.button("Press to add query params"):
 
 if st.button("Press to reset query params"):
     st.experimental_set_query_params()
+
+st.markdown("""
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+This is an example of large text.
+
+# boo
+
+# bah
+""")
